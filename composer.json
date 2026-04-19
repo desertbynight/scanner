@@ -19,7 +19,6 @@
     "guzzlehttp/guzzle": "^6.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "^5.0"
   },
   "suggest": {
     "league/csv": "^8.0"
